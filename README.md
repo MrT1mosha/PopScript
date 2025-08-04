@@ -17,17 +17,11 @@ It supports interactive mode, executing `.pop` files, compiling to Python, and b
 
 ## 📦 Example Code
 ```popscript
-var popit = 2 + 2;
-var simpledimple = 5;
+var e = 2 + 2;
+var a = 5;
 
-print(popit + simpledimple);
+print(e + a);
 print("Hello, World!");
-
-// Using the built-in time package
-package<time> has t;
-print(t.now());
-t.wait(2);
-print("Done!");
 ```
 ## 🚀 Usage
 Run a `.pop` file
