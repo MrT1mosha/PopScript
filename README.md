@@ -58,7 +58,6 @@ pop
 - Static typing (int, string, etc.)
 - OOP (classes, objects)
 - Parallel execution without GIL
-- New package manager Puplease Package (in GitHub)
 
 ## ♦ How to Install PopScript
 see this video:
