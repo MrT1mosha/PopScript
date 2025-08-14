@@ -25,31 +25,14 @@ print("Hello, World!");
 ```
 ## 🚀 Usage
 Run a `.pop` file
-
-If you use Source Code use this
-```bash
-python pop.py myfile.pop --run
-```
-Else You use from release
 ```bash
 pop myfile.pop -r
 ```
 ## How to Build to `.exe`
-
-Again If you use Source Code use this
-```bash
-python pop.py myfile.pop --executable
-```
-Else You use from release
 ```bash
 pop myfile.pop -e
 ```
 ## Interactive mode
-Source Code
-```bash
-python pop.py
-```
-Release (.exe)
 ```bash
 pop
 ```
@@ -58,7 +41,3 @@ pop
 - Static typing (int, string, etc.)
 - OOP (classes, objects)
 - Parallel execution without GIL
-
-## ♦ How to Install PopScript
-see this video:
-There I paste link to video
