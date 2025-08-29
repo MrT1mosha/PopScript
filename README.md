@@ -1,4 +1,8 @@
-# PopScript
+# PopScript   --- NO UPDATE ---
+
+## --- REBRANDING ---
+- New Project `UltraLang`
+---
 
 **PopScript** is a programming language inspired by Python and JavaScript, but with its own syntax and features.  
 It supports interactive mode, executing `.pop` files, compiling to Python, and building `.exe` files using PyInstaller.
